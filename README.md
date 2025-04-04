@@ -46,10 +46,10 @@ brew install ffmpeg  # macOS
 sudo apt install ffmpeg  # Linux
 ```
 
-4. Crea un archivo config.py:
+4. Crea un archivo .env:
 
 ```bash
-# config.py
+# .env
 OPENAI_API_KEY = "tu_api_key_aqui"
 ```
 
