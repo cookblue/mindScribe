@@ -1,0 +1,19 @@
+# Configuración y variables secretas
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Carpetas generadas por tu aplicación
+/resumenes/
+/mp3_convertidos/
+/transcripciones/
+/sesiones_mp4/  
+
+# Archivos de audio y texto generados
+*.mp3
+
+# Archivos temporales o del sistema
+.DS_Store
